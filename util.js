@@ -1,7 +1,7 @@
 /*JS开发常用工具函数*/
 
 /**
- 1、isStatic：检测数据是不是除了symbol外的原始数据
+ 1、isStatic：检测数据是不是除了symbol外的原始数据，test
  */
 function isStatic(value) {
 	return(
